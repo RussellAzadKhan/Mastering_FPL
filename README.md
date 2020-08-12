@@ -17,3 +17,5 @@ Using K-means clustering I was able to identify 4 clusters of FPL players based 
 (4) High cost, high points 
 
 Using TensorFlow to create a deep neural net I was then able to predict with 56% accuracy the cluster that a player would be in.
+
+This project is still a work in progress.
