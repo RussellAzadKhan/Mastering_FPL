@@ -1,4 +1,7 @@
 # Mastering_FPL
+
+## Statistical analysis and predictive modelling of Fantasy Premier League data
+
 Fantasy Premier League (FPL) is an online game where you choose your own team of Premier League footballers. If your players do well in real life games, you get points. It's that simple. 
 
 The aim of this project is to see if current data science methods are able to predict the performance of Premier League Players to a level which would be useful for FPL team selection. 
